@@ -5,6 +5,6 @@
 	@use '../styles/functions';
 	h1 {
 		color: red;
-		font-size: function.toRem(36);
+		font-size: functions.toRem(36);
 	}
 </style>
