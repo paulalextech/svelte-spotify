@@ -2,7 +2,6 @@
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
 <style lang="scss">
-	@use '@unsass/breakpoint';
 	h1 {
 		color: red;
 		font-size: functions.toRem(36);
